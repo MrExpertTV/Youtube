@@ -1,0 +1,12 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:logo/logo_server.png",
+            "ascent": 66,
+            "height": 106,
+            "chars": ["㍿"]
+        }
+
+    ]
+}
