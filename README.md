@@ -16,7 +16,7 @@ Hier sind die Config's aus meinen Videos:
 
 ## Eigene Plugins
 
-Hier stehen meine eigene Plugins sowie auch mache Skrips!
+Hier stehen meine eigene Plugins sowie auch manche Skrips!
 
 ## Mein Server
 
