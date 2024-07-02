@@ -11,7 +11,7 @@ Also Like und lasst ein Aboooooo da!
 
 Hier sind die Config's aus meinen Videos:
 
- 1. Tab - config.yml
+ 1. [Tab - config.yml](https://github.com/MrExpertTV/Youtube/tree/main/TAB%20Config)
  2.  
 
 ## Eigene Plugins
