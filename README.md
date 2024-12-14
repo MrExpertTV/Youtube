@@ -58,7 +58,8 @@ Diese Variante kosten Zeit.... Du musst für jeden Server eine eigenen Ordner er
 
  - [BungeeCord](https://www.spigotmc.org/wiki/bungeecord/)
  - [Waterfall](https://papermc.io/software/waterfall)
- 
+
+ die start.sh lautet 
  *Cloud*:
 
 Mit diese Variante geht es schnell... Du musst nur die Cloud aufsetzen und ein paar dinge einstellen! 
@@ -67,4 +68,6 @@ Und danach dauert ein Server zu erstellen nicht weniger als 1 Minute!
  
  - [SimpleCloud](https://simplecloud.app)
  - [CloudNET](https://cloudnetservice.eu/de/docs/3.4/)
+
+
 
